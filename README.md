@@ -25,3 +25,7 @@ Proveedores
 
 ## Rol
 Proyecto en grupo: responsable del diseño del modelo de datos y las consultas para la gestión de cocina.
+
+## Licencia
+Este proyecto está bajo la Licencia MIT.  
+Ver archivo [LICENSE](LICENSE) para más detalles.
