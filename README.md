@@ -1,4 +1,4 @@
-## Quiosco Interactivo - SQL 
+## Quiosco Interactivo - NoSQL 
 
 Proyecto de gestión de pedidos para un quiosco interactivo, desarrollado como parte de formación extra universitaria. Permite gestionar usuarios, productos, pedidos, valoraciones y proveedores, con consultas analíticas sobre ventas y rendimiento. Está dividido en tres secciones: el quiosco, la cocina y los proveedores.
 
