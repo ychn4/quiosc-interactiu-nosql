@@ -4,7 +4,7 @@ Proyecto de gestión de pedidos para un quiosco interactivo, desarrollado como p
 
 ## Tecnologías
 
-- Bases de datos NoSQL: Google Colab (MongoDB)
+- Bases de datos NoSQL: Google Colab-Python (MongoDB)
 - Lenguaje: SQL queries
 
 ## Funciones
